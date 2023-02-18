@@ -1,0 +1,27 @@
+{
+  "name": "investment-worksheet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/V1n1c1us/investment-worksheet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/V1n1c1us/investment-worksheet/issues"
+  },
+  "homepage": "https://github.com/V1n1c1us/investment-worksheet#readme",
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "puppeteer": "^19.7.1",
+    "puppeteer-cluster": "^0.23.0",
+    "puppeteer-core": "^19.7.1"
+  }
+}
